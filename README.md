@@ -4,7 +4,7 @@ A Movie Trailer website of my favorite movies.
 ## Usage
 Open **fresh_tomatoes.html** with web browser.
 
-## Generate Your Own Website
+## Generate Your Own Website
 1. Open **entertainment_center.py** and modify or add new movie instance like below:
 ```
 movie_title = media.Movie(
